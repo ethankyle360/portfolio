@@ -1,5 +1,7 @@
 # Machine Learning
 
+#### Technical Skills: Python, NumPy, Statistics and Probability
+
 ### Education
 Applied Computer Science
 
